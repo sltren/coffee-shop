@@ -97,6 +97,8 @@ This project includes the following technologies:
     npm run test:e2e
     ``` 
 
+# Additional Considerations
+
 ## CI/CD Pipeline  
 
 Continuous Integration   
